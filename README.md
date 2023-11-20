@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in all things coding and computers
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, PHP
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, React, PHP
 - 💞️ I’m looking to collaborate on website development and web applications 
 - 📫 How to reach me @giliopoulosaz 
 
